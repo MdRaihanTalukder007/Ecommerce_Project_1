@@ -62,12 +62,12 @@ namespace Ecommerce.Web.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        // public async Task<IActionResult> Delete(int id)
-        // {
-        //     var item = await _uow.Categories.GetByIdAsync(id);
-        //     if (item is null) return NotFound();
-        //     return View(item);
-        // }
+        public async Task<IActionResult> Delete(int id)
+        {
+            var item = await _uow.Categories.GetByIdAsync(id);
+            if (item is null) return NotFound();
+            return View(item);
+        }
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

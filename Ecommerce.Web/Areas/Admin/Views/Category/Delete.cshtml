@@ -1,0 +1,11 @@
+﻿@model Ecommerce.Domain.Entities.Category
+<h2>Delete Category</h2>
+
+<p>Are you sure you want to delete: <b>@Model.Name</b>?</p>
+
+<form method="post" asp-action="Delete">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="ID" />
+    <button type="submit">Yes, Delete</button>
+    <a asp-area="Admin" asp-controller="Category" asp-action="Index">Cancel</a>
+</form>
