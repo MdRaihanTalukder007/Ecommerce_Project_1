@@ -1,0 +1,26 @@
+﻿@model List<Ecommerce.Domain.Entities.Category>
+
+<h2>Categories</h2>
+<p><a asp-area="Admin" asp-controller="Category" asp-action="Create">Create New</a></p>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>ID</th><th>Name</th><th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Name</td>
+            <td>
+                <a asp-area="Admin" asp-controller="Category" asp-action="Details" asp-route-ID="@item.ID">Details</a> |
+                <a asp-area="Admin" asp-controller="Category" asp-action="Edit" asp-route-ID="@item.ID">Edit</a> |
+                <a asp-area="Admin" asp-controller="Category" asp-action="Delete" asp-route-ID="@item.ID">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

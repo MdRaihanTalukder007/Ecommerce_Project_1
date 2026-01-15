@@ -1,0 +1,12 @@
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.deps.json
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.dll
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\bin\Debug\net8.0\Ecommerce.Domain.pdb
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.AssemblyInfo.cs
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.dll
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\refint\Ecommerce.Domain.dll
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.pdb
+D:\Ostad\Project 1\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\ref\Ecommerce.Domain.dll

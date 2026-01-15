@@ -1,0 +1,26 @@
+﻿@model Ecommerce.Domain.Entities.Category
+<h2>@ViewBag.ActionName - Category</h2>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+
+    @if (Model.ID > 0)
+    {
+        <input type="hidden" asp-for="Id" />
+    }
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div>
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description"></textarea>
+        <span asp-validation-for="Description"></span>
+    </div>
+
+    <button type="submit">Save</button>
+    <a asp-area="Admin" asp-controller="Category" asp-action="Index">Back</a>
+</form>
