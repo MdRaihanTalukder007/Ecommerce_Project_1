@@ -588,11 +588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+      "projectUniqueName": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
       "projectName": "Ecommerce.Domain",
-      "projectPath": "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+      "projectPath": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
       "packagesPath": "C:\\Users\\MdRaihanTalukder\\.nuget\\packages\\",
-      "outputPath": "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Domain\\obj\\",
+      "outputPath": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

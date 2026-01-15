@@ -25,7 +25,12 @@ namespace Ecommerce.Web.Areas.Admin.Controllers
             return View(item);
         }
 
-        public IActionResult Create() => View(new Category());
+        public IActionResult Create()
+        {
+            ViewBag.ActionName = "Create";
+            return View(new Category());
+        }
+        
 
         [HttpPost]
         [ValidateAntiForgeryToken]

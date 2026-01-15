@@ -7576,11 +7576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj",
+      "projectUniqueName": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Ecommerce.Web.csproj",
       "projectName": "Ecommerce.Web",
-      "projectPath": "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj",
+      "projectPath": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Ecommerce.Web.csproj",
       "packagesPath": "C:\\Users\\MdRaihanTalukder\\.nuget\\packages\\",
-      "outputPath": "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Web\\obj\\",
+      "outputPath": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7601,14 +7601,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-              "projectPath": "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj"
+            "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+              "projectPath": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Application\\Ecommerce.Application.csproj"
             },
-            "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
-              "projectPath": "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
+            "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+              "projectPath": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
             },
-            "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {
-              "projectPath": "D:\\Ostad\\Project 1\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj"
+            "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {
+              "projectPath": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj"
             }
           }
         }

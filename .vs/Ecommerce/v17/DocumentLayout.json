@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,55 +79,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Ecommerce.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Ecommerce.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T17:30:25.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Ecommerce.Web\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Ecommerce.Web\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T17:30:04.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "ToolTip": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T17:21:36.779Z"
+              "WhenOpened": "2026-01-15T17:53:43.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ToolTip": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T17:20:14.796Z"
+              "WhenOpened": "2026-01-15T17:20:14.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Details.cshtml",
               "RelativeDocumentMoniker": "Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Details.cshtml",
@@ -147,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
@@ -159,31 +128,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Ecommerce.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ToolTip": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Ecommerce.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T17:08:51.676Z"
+              "WhenOpened": "2026-01-15T17:08:51.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Program.cs",
               "RelativeDocumentMoniker": "Ecommerce.Web\\Program.cs",
               "ToolTip": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Program.cs",
               "RelativeToolTip": "Ecommerce.Web\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T17:01:36.45Z"
+              "WhenOpened": "2026-01-15T17:01:36.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Ecommerce.Web\\appsettings.json",
@@ -195,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\UnitOfWork.cs",
@@ -207,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Infrastructure\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\BaseRepository.cs",
@@ -219,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Ecommerce.Application\\Services\\ProductService.cs",
@@ -231,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Application\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Ecommerce.Application\\Interfaces\\IUnitOfWork.cs",
@@ -243,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\Product.cs",
@@ -255,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\Category.cs",
@@ -267,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Domain\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\BaseEntity.cs",
@@ -279,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Application\\Interfaces\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "Ecommerce.Application\\Interfaces\\IBaseRepository.cs",
