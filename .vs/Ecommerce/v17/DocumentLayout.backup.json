@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{693DA90F-6765-461B-B2ED-FCB4E51EC391}|Ecommerce.Web\\Ecommerce.Web.csproj|d:\\ostad\\project 1\\ecommerce_project_1\\ecommerce.web\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -86,20 +86,20 @@
               "RelativeToolTip": "Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T17:53:43.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T17:53:43.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ToolTip": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Ecommerce.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T17:20:14.796Z"
+              "WhenOpened": "2026-01-15T17:20:14.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Ecommerce.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -140,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Ostad\\Project 1\\Ecommerce_Project_1\\Ecommerce.Web\\Program.cs",
               "RelativeDocumentMoniker": "Ecommerce.Web\\Program.cs",
